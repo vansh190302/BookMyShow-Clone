@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/BookMyShow-Clone/static/css/main.56e6221f.css",
+    "main.js": "/BookMyShow-Clone/static/js/main.8aabd493.js",
+    "static/js/787.3c1de87e.chunk.js": "/BookMyShow-Clone/static/js/787.3c1de87e.chunk.js",
+    "index.html": "/BookMyShow-Clone/index.html",
+    "main.56e6221f.css.map": "/BookMyShow-Clone/static/css/main.56e6221f.css.map",
+    "main.8aabd493.js.map": "/BookMyShow-Clone/static/js/main.8aabd493.js.map",
+    "787.3c1de87e.chunk.js.map": "/BookMyShow-Clone/static/js/787.3c1de87e.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.56e6221f.css",
+    "static/js/main.8aabd493.js"
+  ]
+}
